@@ -53,5 +53,16 @@ highlight_name: true
 first_name: Alice
 email: claudiocoppola90@gmail.com
 ---
-Claudio Coppola is a Postdoctoral Researcher at the School of Electronic Engineering and Computer Science of the Queen Mary University of London (UK). In 2013, he received MSc degree (cum laude) in computer engineering from the University of Naples Federico II, Italy. He obtained a PhD in Robotic Perception from the University of Lincoln, UK, in 2018. His current research interests include Robotic Perception and Robot Learning with a focus on Human and Robot Activity Understanding, Visual and Tactile Perception, and Learning from Human Demonstrations. Dr Coppola published in several high-level international journals and conferences and has broad experiences in working with industrial partners as a Machine Learning Engineer.
+Claudio Coppola is an expert in artificial intelligence and robotics, passionate about advancing the state-of-the-art in machine learning. As an Applied Scientist at Amazon, he develops cutting-edge machine learning solutions for forecasting and pricing at Amazon Transportation Services.
+
+Previously, as a postdoctoral Researcher at Queen Mary University of London's School of Electronic Engineering and Computer Science, Claudio focused on robot learning for manufacturing automation. His research on tactile perception, robot teleoperation, and learning from human demonstrations aimed to enable more intelligent and adaptive industrial robots.
+
+Claudio earned his PhD in Robotic Perception from the University of Lincoln in 2018, where his doctoral research explored human activity understanding for assistive robotics in indoor environments. He also holds an MSc degree (cum laude) in Computer Engineering from the University of Naples Federico II in Italy (2013).
+
+He obtained a PhD in Robotics from the University of Lincoln, UK, in 2018. His work there was dedicated to Human Activity Understanding for Assistive Robots in a indoor environment.
+
+In 2013, he received MSc degree (cum laude) in computer engineering from the University of Naples Federico II, Italy.  
+
+With numerous publications in top-tier peer-reviewed journals and conferences including ICRA, IROS, ECAI  and IJSR Claudio has extensive experience within academia and industry to implement machine learning and data science techniques. His technical expertise and passion for AI robotics make him an asset to any initiative at the intersection of intelligent systems and automation.
+
 {style="text-align: justify;"}
