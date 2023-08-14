@@ -1,6 +1,7 @@
 ---
 title: Claudio Coppola
 role: Robotics And Machine Learning Scientist
+avatar_filename: https://media.licdn.com/dms/image/C5603AQHU55TK23VWeQ/profile-displayphoto-shrink_800_800/0/1517576629382?e=1697673600&v=beta&t=KgvZHk0EK95-pxy2sWdxfNOiFYT6zm9Pk6N41iq-XZg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
