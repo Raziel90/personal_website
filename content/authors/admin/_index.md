@@ -2,8 +2,9 @@
 title: Claudio Coppola
 role: Robotics And Machine Learning Scientist
 avatar_filename: me.jpeg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: Machine learning and robotics expert with experience in industry and
+  academia applying AI and data science to transportation forecasting,
+  manufacturing automation, robotic perception, and human-robot interaction.
 interests:
   - Robot-learning
   - Human-Activity-Recognition
