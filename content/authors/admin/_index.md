@@ -13,7 +13,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto://claudiocoppola90@gmail.com
+    link: /#contact
   - icon: twitter
     icon_pack: ai
     link: https://twitter.com/ClaudioInClouds
