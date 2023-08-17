@@ -31,7 +31,7 @@ social:
     link: https://www.linkedin.com/in/clcoppola
   - icon: cv
     icon_pack: ai
-    link: uploads/resume.pdf
+    link: uploads/CV_2column.pdf
 organizations:
   - name: Amazon
     url: ""
@@ -62,7 +62,7 @@ Claudio earned his PhD in Robotic Perception from the University of Lincoln in 2
 
 He obtained a PhD in Robotics from the University of Lincoln, UK, in 2018. His work there was dedicated to Human Activity Understanding for Assistive Robots in a indoor environment.
 
-In 2013, he received MSc degree (cum laude) in computer engineering from the University of Naples Federico II, Italy.  
+In 2013, he received MSc degree (cum laude) in computer engineering from the University of Naples Federico II, Italy.
 
 With numerous publications in top-tier peer-reviewed journals and conferences including ICRA, IROS, ECAI  and IJSR Claudio has extensive experience within academia and industry to implement machine learning and data science techniques. His technical expertise and passion for AI robotics make him an asset to any initiative at the intersection of intelligent systems and automation.
 
