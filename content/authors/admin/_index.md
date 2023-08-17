@@ -1,7 +1,7 @@
 ---
 title: Claudio Coppola
 role: Robotics And Machine Learning Scientist
-avatar_filename: small-me.jpg
+avatar_filename: avatar.jpg
 bio: Machine learning and robotics expert with experience in industry and
   academia applying AI and data science to transportation forecasting,
   manufacturing automation, robotic perception, and human-robot interaction.
