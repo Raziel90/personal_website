@@ -70,7 +70,7 @@ sections:
           company: Buzzoole
           company_url: 'https://buzzoole.com/'
           location: Naples, Italy
-          date_start: '2018-04-00'
+          date_start: '2018-04-01'
           date_end: '2018-09-30'
           description: |2-
             - Led the data science team, worked on several Machine Learning Projects central to raise $8.9M funding for the company to improve the analytics product
@@ -80,7 +80,7 @@ sections:
           company:
           company_url: ''
           location: Lincoln, UK
-          date_start: '2017-01-00'
+          date_start: '2017-01-01'
           date_end: '2018-06-30'
           description: |2-
             - Developed state-of-the-art Human Activity Recognition and Re-identiﬁcation models used in the EU H2020 research projects ENRICHME and FLOBOT.
