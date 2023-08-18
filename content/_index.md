@@ -65,7 +65,7 @@ sections:
           location: London, UK
           date_start: '2018-10-00'
           date_end: '2019-01-01'
-          description:
+          description: |2-
           Took the role of CTO cooperating at the ideation of the start-up, public speaking, customer and product development and market analysis.
         - title: Data Scientist
           company: Buzzoole
@@ -92,7 +92,7 @@ sections:
           location: Rome, Italy
           date_start: '2014-01-00'
           date_end: '2014-06-30'
-          description:
+          description: |2-
           Automated daily BI maintenance tasks with a speed-up above 90% and developed SQL queries to generate BI reports.
 
 
