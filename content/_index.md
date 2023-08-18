@@ -248,7 +248,7 @@ sections:
       # Contact (add or remove contact options as necessary)
       email: claudiocoppola90@gmail.com
       # phone: 888 888 88 88
-      appointment_url: 'https://calendly.com'
+      # appointment_url: 'https://calendly.com'
       # address:
       #   street: 450 Serra Mall
       #   city: Stanford
