@@ -39,7 +39,9 @@ tags:
   - Ensemble-Learning
   - Activity-Segmentation
 categories: []
-projects: []
+projects:
+  - ENRICHME
+  - FLOBOT
 image:
   caption: ""
   focal_point: ""
@@ -48,10 +50,12 @@ image:
 summary: ""
 lastmod: 2023-08-18T13:00:05+01:00
 date: 2020-01-01
-publishDate: 2023-08-18T12:00:05.526603Z
+publishDate: 2023-08-18T12:00:05.526Z
 ---
 A﻿rticle: <https://link.springer.com/article/10.1007/s12369-019-00541-y>
 
 D﻿ataset: [continuous-social-activity-dataset/](https://lcas.lincoln.ac.uk/wp/research/data-sets-software/continuous-social-activity-dataset/)
 
 C﻿ode: [Social-Interaction-Detection-Code](https://github.com/Raziel90/Social-Interaction-Detection-Code)
+
+V﻿ideo: <https://youtu.be/GI38VAXOMwc>
