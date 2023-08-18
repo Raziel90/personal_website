@@ -8,8 +8,8 @@ authors:
   - Claudio Coppola
   - Gökhan Solak
   - Lorenzo Jamone
-publication: "*2022 31st IEEE International Conference on Robot and Human
-  Interactive Communication (RO-MAN)*"
+publication: "2022 31st IEEE International Conference on Robot and Human
+  Interactive Communication (RO-MAN)"
 abstract: Using robot manipulators in contexts where it is undesirable or
   impractical for humans to physically intervene is crucial for several
   applications, from manufacturing to extreme environments. However, robots
@@ -36,7 +36,7 @@ tags:
   - Vibrotactile-feedback
   - Haptics
 categories: []
-projects: []
+projects: ['MAN^3']
 image:
   caption: ""
   focal_point: ""

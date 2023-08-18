@@ -32,6 +32,6 @@ projects: []
 publishDate: '2023-08-18T12:00:04.897524Z'
 publication_types:
 - '1'
-abstract: ''
+abstract: 'This paper presents an RGB-D based human re-identification approach using novel biometrics features from the body’s volume. Existing work based on RGB images or skeleton features have some limitations for real-world robotic applications, most notably in dealing with occlusions and orientation of the user. Here, we propose novel features that allow performing re-identification when the person is facing side/backward or the person is partially occluded. The proposed approach has been tested for various scenarios including different views, occlusion and the public BIWI RGBD-ID dataset.'
 publication: '*International Conference on Computer Vision Theory and Applications*'
 ---

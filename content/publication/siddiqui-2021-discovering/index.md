@@ -10,7 +10,7 @@ authors:
 - Claudio Coppola
 - Gokhan Solak
 - Lorenzo Jamone
-tags: []
+tags: ['Grasping', 'Grasp-metric', 'Dexterous-Manipulation', 'Haptics', 'Manipulation', 'Tactile-Sensing']
 categories: []
 date: '2021-01-01'
 lastmod: 2023-08-18T13:00:06+01:00
@@ -34,7 +34,7 @@ projects: []
 publishDate: '2023-08-18T12:00:06.365710Z'
 publication_types:
 - '1'
-abstract: ''
+abstract: 'Autonomous grasping of unknown objects is challenging due to the uncertainty in robotic sensing and action generation. This paper presents a pipeline for predicting a safe grasp in unknown objects using depth and tactile sensing. The main objective of the work is to explore haptically to maximise a given grasp metric, such that the probability of dropping the object after lifting from the surface is minimal. The performance of the uniform grid search method is compared with probabilistic methods (i.e. standard and unscented Bayesian Optimisation) to discover safe points. The results show that unscented Bayesian Optimisation provides better confidence in finding a safe grasp. This is demonstrated by observing optimum points being far from the edges and the exploration converging sooner than other methods in a limited number of exploratory observations.'
 publication: 'Annual Conference Towards Autonomous Robotic Systems'
 url_video: 'https://www.youtube.com/watch?v=M1-UWiRCqbs'
 ---

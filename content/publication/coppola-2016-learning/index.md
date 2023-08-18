@@ -9,7 +9,7 @@ authors:
   - Tom Duckett
   - Nicola Bellotto
 author_notes: []
-publication: "*European Conference on Artificial Intelligence (ECAI2016)*"
+publication: "European Conference on Artificial Intelligence (ECAI2016)"
 abstract: We investigate how incremental learning of long-term human activity
   patterns improves the accuracy of activity classification over time. Rather
   than trying to improve the classification methods themselves, we assume that

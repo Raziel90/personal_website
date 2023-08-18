@@ -10,7 +10,7 @@ authors:
 - Brice Denoun
 - Claudio Coppola
 - Lorenzo Jamone
-tags: []
+tags: [tactile-slip-detection,wild-leveraging, distributed-sensing, normal-shear-forces, grasped-object, robot-gripper, crucial-skill, autonomous-robotic-manipulation, automatic-slip-detection, force-sensing]
 categories: []
 date: '2021-01-01'
 lastmod: 2023-08-18T13:00:06+01:00
@@ -34,8 +34,8 @@ projects: []
 publishDate: '2023-08-18T12:00:06.555219Z'
 publication_types:
 - '1'
-abstract: ''
+abstract: 'The ability to detect that a grasped object is slipping from the robot gripper is a crucial skill for autonomous robotic manipulation. However, current solutions for automatic slip detection do not perform well in real-world unstructured settings, in which a wide variety of gripper-object interactions could occur. Tactile and force sensing are the most suitable sensory modalities to detect such events, and the recent technological advances in the field are generating novel interesting opportunities. In this work, we propose a data-driven method for automatic slip detection that leverages a novel sensor, which combines the advantages of tactile and force sensing, i.e. distributed measurements of normal and shear contact forces. Interestingly, our model is trained (and tested) uniquely with data obtained during routine robot operations (i.e. in the wild) rather than during a controlled data collection procedure. We compare different sets of tactile/force features to highlight the advantages provided by the different sensory modalities, and we report results that show good detection performances on our in-the-wild dataset, which we make publicly available.'
 publication: '2021 IEEE/RSJ International Conference on Intelligent Robots and Systems
   (IROS)'
-video_url: 'https://www.youtube.com/watch?v=rdjgSdl7oQU'
+url_video: 'https://www.youtube.com/watch?v=rdjgSdl7oQU'
 ---
