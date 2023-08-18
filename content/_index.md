@@ -78,7 +78,7 @@ sections:
             - Fake Influencer Detection. This project tried to detect fake accounts and accounts using fake influencers to boost their metrics.
         - title: Research Associate
           company: University of Lincoln
-          company_url: ''
+          company_url: 'https://lcas.lincoln.ac.uk/'
           location: Lincoln, UK
           date_start: '2017-01-01'
           date_end: '2018-06-30'
@@ -86,8 +86,8 @@ sections:
             - Developed state-of-the-art Human Activity Recognition and Re-identiﬁcation models used in the EU H2020 research projects ENRICHME and FLOBOT.
             - Teaching Assistant for courses of Artiﬁcial Intelligence and Robotics.
         - title: Business Intelligence Consultant
-          company:
-          company_url: ''
+          company: KPMG Advisory
+          company_url: 'https://kpmg.com/'
           location: Rome, Italy
           date_start: '2014-01-01'
           date_end: '2014-06-30'
