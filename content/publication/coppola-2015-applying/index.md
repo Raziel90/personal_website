@@ -37,4 +37,5 @@ publication_types:
 abstract: ''
 publication: '*IEEE/RSJ IROS workshop on assistance and service robotics in a human
   environment*'
+url_pdf: 'https://bpb-eu-w2.wpmucdn.com/blogs.lincoln.ac.uk/dist/2/1110/files/2020/06/Coppola2015.pdf'
 ---

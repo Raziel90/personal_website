@@ -45,4 +45,10 @@ summary: ""
 lastmod: 2023-08-18T13:00:07+01:00
 date: 2022-01-01
 publishDate: 2023-08-18T12:00:06.948952Z
+url_video:
+  #'https://user-images.githubusercontent.com/8159414/159833096-a2a14748-be1a-4aec-83a6-37b8b14de98c.mp4'
+  'https://www.youtube.com/watch?v=xiJxB5OeEs8&ab_channel=CRISP-QueenMaryUniversityofLondon'
+url_pdf: 'https://ieeexplore.ieee.org/abstract/document/9900583'
+url_code: 'https://github.com/ARQ-CRISP/teleoperation_ur5_allegro_leap'
+# url_dataset: ''
 ---

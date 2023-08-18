@@ -39,5 +39,9 @@ summary: ""
 lastmod: 2023-08-18T13:00:05+01:00
 date: 2017-01-01
 publishDate: 2023-08-18T12:00:05.115683Z
+
+url_video: 'https://youtu.be/KPmKn9icCMc'
+url_pdf: 'https://publications.aston.ac.uk/id/eprint/31612/1/Automatic_Detection_of_Human_Interactions_from_RGB_D_Data_for_Social_Activity_Classification.pdf'
+url_code: 'https://github.com/Raziel90/Social-Interaction-Detection-Code'
+url_dataset: 'https://lcas.lincoln.ac.uk/wp/research/data-sets-software/uol-3d-social-interaction-dataset/'
 ---
-A﻿rticle: [Automatic_Detection_of_Human_Interactions_for_Social_Activity_Classification.pdf](https://publications.aston.ac.uk/id/eprint/31612/1/Automatic_Detection_of_Human_Interactions_from_RGB_D_Data_for_Social_Activity_Classification.pdf)

@@ -48,7 +48,8 @@ summary: ""
 lastmod: 2023-08-18T13:00:04+01:00
 date: 2016-01-01
 publishDate: 2023-08-18T12:00:04.698749Z
+url_video: 'https://youtu.be/BmoiBus7yi8'
+url_pdf: 'https://publications.aston.ac.uk/id/eprint/29781/1/Social_activity_recognition_probabilistic_merging_of_skeleton_features_proximity_priors_from_RGB_D_data.pdf'
+url_code: 'https://github.com/Raziel90/Social-Interaction-Detection-Code'
+url_dataset: 'https://lcas.lincoln.ac.uk/wp/research/data-sets-software/isr-uol-3d-social-activity-dataset/'
 ---
-A﻿rticle: [IROS16.pdf](https://publications.aston.ac.uk/id/eprint/29781/1/Social_activity_recognition_probabilistic_merging_of_skeleton_features_proximity_priors_from_RGB_D_data.pdf)
-
-D﻿ataset: [isr-uol-3d-social-activity-dataset](https://lcas.lincoln.ac.uk/wp/research/data-sets-software/isr-uol-3d-social-activity-dataset/)

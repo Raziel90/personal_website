@@ -8,7 +8,7 @@ authors:
   - Serhan Cosar
   - Diego R Faria
   - Nicola Bellotto
-publication: "*International Journal of Social Robotics*"
+publication: "International Journal of Social Robotics"
 abstract: Modern service robots are provided with one or more sensors, often
   including RGB-D cameras, to perceive objects and humans in the environment.
   This paper proposes a new system for the recognition of human social
@@ -51,11 +51,12 @@ summary: ""
 lastmod: 2023-08-18T13:00:05+01:00
 date: 2020-01-01
 publishDate: 2023-08-18T12:00:05.526Z
+url_video: 'https://youtu.be/GI38VAXOMwc'
+url_pdf: 'https://link.springer.com/article/10.1007/s12369-019-00541-y'
+url_code: 'https://github.com/Raziel90/Social-Interaction-Detection-Code'
+url_dataset: 'https://lcas.lincoln.ac.uk/wp/research/data-sets-software/continuous-social-activity-dataset/'
+# url_poster: ''
+# url_project: ''
+# url_slides: ''
+# url_source: ''
 ---
-A﻿rticle: <https://link.springer.com/article/10.1007/s12369-019-00541-y>
-
-D﻿ataset: [continuous-social-activity-dataset](https://lcas.lincoln.ac.uk/wp/research/data-sets-software/continuous-social-activity-dataset/)
-
-C﻿ode: [Social-Interaction-Detection-Code](https://github.com/Raziel90/Social-Interaction-Detection-Code)
-
-V﻿ideo: <https://youtu.be/GI38VAXOMwc>

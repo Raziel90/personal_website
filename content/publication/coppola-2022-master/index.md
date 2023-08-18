@@ -33,5 +33,7 @@ publishDate: '2023-08-18T12:00:07.339506Z'
 publication_types:
 - '1'
 abstract: ''
-publication: '*IEEE International Conference of Development and Learning 2022*'
+publication: 'IEEE International Conference of Development and Learning 2022'
+url_dataset: 'https://github.com/ARQ-CRISP/CRISP_teleoperated_fruit_picking_dataset'
+url_video: 'https://www.youtube.com/watch?v=nUusxghqhME'
 ---

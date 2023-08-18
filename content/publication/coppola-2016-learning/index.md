@@ -44,7 +44,8 @@ summary: ""
 lastmod: 2023-08-18T13:00:04+01:00
 date: 2016-01-01
 publishDate: 2023-08-18T12:00:04.507549Z
+# url_video: ''
+url_pdf: 'http://eprints.lincoln.ac.uk/id/eprint/23297/1/kaminka013.pdf'
+url_code: 'https://github.com/gestom/fremen_activity'
+# url_dataset: ''
 ---
-Article: <http://eprints.lincoln.ac.uk/id/eprint/23297/>
-
-Code: <https://github.com/gestom/fremen_activity>

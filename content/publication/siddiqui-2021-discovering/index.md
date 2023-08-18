@@ -35,5 +35,6 @@ publishDate: '2023-08-18T12:00:06.365710Z'
 publication_types:
 - '1'
 abstract: ''
-publication: '*Annual Conference Towards Autonomous Robotic Systems*'
+publication: 'Annual Conference Towards Autonomous Robotic Systems'
+url_video: 'https://www.youtube.com/watch?v=M1-UWiRCqbs'
 ---

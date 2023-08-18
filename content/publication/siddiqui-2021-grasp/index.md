@@ -40,4 +40,7 @@ publication_types:
 - '2'
 abstract: ''
 publication: '*Frontiers in Robotics and AI*'
+url_video: 'https://www.youtube.com/watch?v=M1-UWiRCqbs'
+url_pdf: 'https://www.frontiersin.org/articles/10.3389/frobt.2021.703869/full'
+url_code: 'https://github.com/ARQ-CRISP/bopt_grasp_quality'
 ---

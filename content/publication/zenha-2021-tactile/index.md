@@ -35,6 +35,7 @@ publishDate: '2023-08-18T12:00:06.555219Z'
 publication_types:
 - '1'
 abstract: ''
-publication: '*2021 IEEE/RSJ International Conference on Intelligent Robots and Systems
-  (IROS)*'
+publication: '2021 IEEE/RSJ International Conference on Intelligent Robots and Systems
+  (IROS)'
+video_url: 'https://www.youtube.com/watch?v=rdjgSdl7oQU'
 ---
