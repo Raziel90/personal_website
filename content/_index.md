@@ -56,9 +56,9 @@ sections:
           date_start: '2019-05-01'
           date_end: '2022-06-31'
           description:
-          - Performed Reseach and supported PhD and Master students as member of the Advanced Robotics @ Queen-Mary (ARQ) Team.
-          - Contributed to and Coordinated the work of PhD/MSc students for the EPSRC MAN3 Project, involving Shadow Robotics, Ocado and Deepmind.
-          - Conducted research on learning by demonstration for robot manipulation by building a teleoperation platform and a demonstration segmentation system.
+              - Performed Reseach and supported PhD and Master students as member of the Advanced Robotics @ Queen-Mary (ARQ) Team.
+              - Contributed to and Coordinated the work of PhD/MSc students for the EPSRC MAN3 Project, involving Shadow Robotics, Ocado and Deepmind.
+              - Conducted research on learning by demonstration for robot manipulation by building a teleoperation platform and a demonstration segmentation system.
         - title: LD11 Cohort Member
           company: Entrepreneur First
           company_url: 'https://www.joinef.com/'
@@ -66,7 +66,7 @@ sections:
           date_start: '2018-10-00'
           date_end: '2019-01-01'
           description: |2-
-          Took the role of CTO cooperating at the ideation of the start-up, public speaking, customer and product development and market analysis.
+              Took the role of CTO cooperating at the ideation of the start-up, public speaking, customer and product development and market analysis.
         - title: Data Scientist
           company: Buzzoole
           company_url: 'https://buzzoole.com/'
@@ -74,9 +74,9 @@ sections:
           date_start: '2018-04-00'
           date_end: '2018-09-30'
           description:
-          - Led the data science team, worked on several Machine Learning Projects central to raise $8.9M funding for the company to improve the analytics product
-          - Object Detection in Social Media Images. This project helped to provide analytics about influencer topics to the company platform.
-          - Fake Influencer Detection. This project tried to detect fake accounts and accounts using fake influencers to boost their metrics.
+              - Led the data science team, worked on several Machine Learning Projects central to raise $8.9M funding for the company to improve the analytics product
+              - Object Detection in Social Media Images. This project helped to provide analytics about influencer topics to the company platform.
+              - Fake Influencer Detection. This project tried to detect fake accounts and accounts using fake influencers to boost their metrics.
         - title: Research Associate
           company:
           company_url: ''
@@ -84,8 +84,8 @@ sections:
           date_start: '2017-01-00'
           date_end: '2018-06-30'
           description:
-          - Developed state-of-the-art Human Activity Recognition and Re-identiﬁcation models used in the EU H2020 research projects ENRICHME and FLOBOT.
-          - Teaching Assistant for courses of Artiﬁcial Intelligence and Robotics.
+              - Developed state-of-the-art Human Activity Recognition and Re-identiﬁcation models used in the EU H2020 research projects ENRICHME and FLOBOT.
+              - Teaching Assistant for courses of Artiﬁcial Intelligence and Robotics.
         - title: Business Intelligence Consultant
           company:
           company_url: ''
@@ -93,7 +93,7 @@ sections:
           date_start: '2014-01-00'
           date_end: '2014-06-30'
           description: |2-
-          Automated daily BI maintenance tasks with a speed-up above 90% and developed SQL queries to generate BI reports.
+              Automated daily BI maintenance tasks with a speed-up above 90% and developed SQL queries to generate BI reports.
 
 
     design:
