@@ -265,7 +265,7 @@ sections:
           icon_pack: fab
           name: DM Me
           link: 'https://twitter.com/ClaudioInClouds'
-        - icon: square-threads
+        - icon: threads
           icon_pack: fab
           name: I am on threads
           link: 'https://www.threads.net/@fullmetal_scientist'
