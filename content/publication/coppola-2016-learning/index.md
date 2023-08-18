@@ -19,7 +19,7 @@ image:
   caption: ""
   focal_point: ""
   preview_only: false
-  filename: https://www.claudiocoppola.com/wp-content/uploads/2016/07/example.png
+  filename: featured.png
 summary: ""
 lastmod: 2023-08-18T13:00:04+01:00
 date: 2016-01-01
