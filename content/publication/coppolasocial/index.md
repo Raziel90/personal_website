@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Social Activity Recognition for Service Robots using a Depth Camera
+title: PhD Thesis - Social Activity Recognition for Service Robots using a Depth Camera
 subtitle: ''
 summary: ''
 authors:
@@ -10,7 +10,7 @@ authors:
 tags: []
 categories: []
 date: -01-01
-lastmod: 2023-08-18T13:00:07+01:00
+lastmod: 2018-08-18T13:00:07+01:00
 featured: false
 draft: false
 
