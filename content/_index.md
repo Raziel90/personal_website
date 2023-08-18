@@ -77,7 +77,7 @@ sections:
             - Object Detection in Social Media Images. This project helped to provide analytics about influencer topics to the company platform.
             - Fake Influencer Detection. This project tried to detect fake accounts and accounts using fake influencers to boost their metrics.
         - title: Research Associate
-          company:
+          company: University of Lincoln
           company_url: ''
           location: Lincoln, UK
           date_start: '2017-01-01'
