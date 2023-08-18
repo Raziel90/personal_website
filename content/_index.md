@@ -89,7 +89,7 @@ sections:
           company:
           company_url: ''
           location: Rome, Italy
-          date_start: '2014-01-00'
+          date_start: '2014-01-01'
           date_end: '2014-06-30'
           description: |2-
             - Automated daily BI maintenance tasks with a speed-up above 90% and developed SQL queries to generate BI reports.
@@ -112,7 +112,7 @@ sections:
       items:
         - certificate_url: https://www.coursera.org/account/accomplishments/verify/7V8WQJYTV3E2
           date_end: ''
-          date_start: '2019-01-00'
+          date_start: '2019-01-01'
           description: ''
           organization: Coursera
           organization_url: https://www.coursera.org
