@@ -55,7 +55,7 @@ sections:
           date_start: '2019-05-01'
           date_end: '2022-06-30'
           description:
-          - Performed Reseach and supported PhD and Master students as member of the Advanced Robotics @ Queen-Mary (ARQ) Team.
+          - Performed Reseach and supported PhD and Master students as member of the Advanced Robotics Queen-Mary (ARQ) Team.
           - Contributed to and Coordinated the work of PhD/MSc students for the EPSRC MAN3 Project, involving Shadow Robotics, Ocado and Google Deepmind.
           - Conducted research on learning by demonstration for robot manipulation by building a teleoperation platform and a demonstration segmentation system.
         - title: LD11 Cohort Member
