@@ -11,22 +11,22 @@ sections:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-  - block: features
-    content:
-      title: Skills
-      items:
-        - name: R
-          description: 90%
-          icon: r-project
-          icon_pack: fab
-        - name: Statistics
-          description: 100%
-          icon: chart-line
-          icon_pack: fas
-        - name: Photography
-          description: 10%
-          icon: camera-retro
-          icon_pack: fas
+      # - block: features
+      #   content:
+      #     title: Skills
+      #     items:
+      #       - name: Python
+      #         description: 90%
+      #         icon: fa-python
+      #         icon_pack: fab
+      #       - name: Machine Learning
+      #         description: 100%
+      #         icon: fa-brain-circuit
+      #         icon_pack: fas
+      #       - name: Photography
+      #         description: 10%
+      #         icon: camera-retro
+      #         icon_pack: fas
   - block: experience
     content:
       title: Experience
@@ -39,27 +39,63 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
+        - title: Applied Scientist
+          company: Amazon
           company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
+          company_logo: amazon
+          location: London, UK
+          date_start: '2022-07-20'
           date_end: ''
           description: |2-
-              Responsibilities include:
-
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
+              Scoped, Developed and deployed cost estimation and volume forecasting solutions for the Amazon Transportation Services Less-Than-Truckload product working in direct contact with business at all the stages of development
+        - title: Postdoctoral Researcher
+          company: Queen Mary University of London
+          company_url: 'https://lorejam.wixsite.com/crisp'
+          company_logo: building-columns
+          location: London, UK
+          date_start: '2019-05-01'
+          date_end: '2022-06-31'
+          description:
+          Performed Reseach and supported PhD and Master students as member of the Advanced Robotics @ Queen-Mary (ARQ) Team. Main responsibilities included `:`
+          - Contributed to and Coordinated the work of PhD/MSc students for the EPSRC MAN3 Project, involving Shadow Robotics, Ocado and Deepmind.
+          - Conducted research on learning by demonstration for robot manipulation by building a teleoperation platform and a demonstration segmentation system.
+        - title: LD11 Cohort Member
+          company: Entrepreneur First
+          company_url: 'https://www.joinef.com/'
+          location: London, UK
+          date_start: '2018-10-00'
+          date_end: '2019-01-01'
+          description:
+          Took the role of CTO cooperating at the ideation of the start-up, public speaking, customer and product development and market analysis.
+        - title: Data Scientist
+          company: Buzzoole
+          company_url: 'https://buzzoole.com/'
+          location: Naples, Italy
+          date_start: '2018-04-00'
+          date_end: '2018-09-30'
+          description:
+          Led the data science team, worked on several Machine Learning Projects central to raise $8.9M funding for the company to improve the analytics product \:
+          - Object Detection in Social Media Images. This project helped to provide analytics about influencer topics to the company platform.
+          - Fake Influencer Detection. This project tried to detect fake accounts and accounts using fake influencers to boost their metrics.
+        - title: Research Associate
+          company:
           company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          location: Lincoln, UK
+          date_start: '2017-01-00'
+          date_end: '2018-06-30'
+          description:
+          - Developed state-of-the-art Human Activity Recognition and Re-identiﬁcation models used in the EU H2020 research projects ENRICHME and FLOBOT.
+          - Teaching Assistant for courses of Artiﬁcial Intelligence and Robotics.
+        - title: Business Intelligence Consultant
+          company:
+          company_url: ''
+          location: Rome, Italy
+          date_start: '2014-01-00'
+          date_end: '2014-06-30'
+          description:
+          Automated daily BI maintenance tasks with a speed-up above 90% and developed SQL queries to generate BI reports.
+
+
     design:
       columns: '2'
   - block: accomplishments
@@ -75,30 +111,30 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://www.coursera.org
+        - certificate_url: https://www.coursera.org/account/accomplishments/verify/7V8WQJYTV3E2
           date_end: ''
-          date_start: '2021-01-25'
+          date_start: '2019-01-00'
           description: ''
           organization: Coursera
           organization_url: https://www.coursera.org
-          title: Neural Networks and Deep Learning
+          title: Machine Learning
           url: ''
-        - certificate_url: https://www.edx.org
+        - certificate_url: https://graduation.udacity.com/confirm/e/c883be94-8156-11eb-8ddb-3b818c0fccf8
           date_end: ''
-          date_start: '2021-01-01'
-          description: Formulated informed blockchain models, hypotheses, and use cases.
-          organization: edX
-          organization_url: https://www.edx.org
-          title: Blockchain Fundamentals
-          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-        - certificate_url: https://www.datacamp.com
-          date_end: '2020-12-21'
+          date_start: '2023-08-01'
+          description: Deep Reinforcement Learning Nanodegree
+          organization: Udacity
+          organization_url: https://www.udacity.com/
+          title: Deep Reinforcement Learning Nanodegree
+          url: https://graduation.udacity.com/confirm/e/c883be94-8156-11eb-8ddb-3b818c0fccf8
+        - certificate_url: https://www.coursera.org/account/accomplishments/specialization/RNPASNNUFD2H
+          date_end: ''
           date_start: '2020-07-01'
           description: ''
-          organization: DataCamp
-          organization_url: https://www.datacamp.com
-          title: 'Object-Oriented Programming in R'
-          url: ''
+          organization: Coursera
+          organization_url: https://www.coursera.org
+          title: 'DeepLearning.AI Deep Learning Specialization'
+          url: 'https://www.coursera.org/specializations/deep-learning'
     design:
       columns: '2'
   - block: collection
