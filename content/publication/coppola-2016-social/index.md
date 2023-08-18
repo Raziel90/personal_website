@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: Social activity recognition based on probabilistic merging of skeleton features
-  with proximity priors from rgb-d data
+  with proximity priors from RGB-D data
 subtitle: ''
 summary: ''
 authors:
