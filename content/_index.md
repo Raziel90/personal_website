@@ -62,7 +62,7 @@ sections:
           company: Entrepreneur First
           company_url: 'https://www.joinef.com/'
           location: London, UK
-          date_start: '2018-10-00'
+          date_start: '2018-10-01'
           date_end: '2019-01-01'
           description: |2-
               Took the role of CTO cooperating at the ideation of the start-up, public speaking, customer and product development and market analysis.
