@@ -42,7 +42,7 @@ sections:
         - title: Applied Scientist
           company: Amazon
           company_url: ''
-          company_logo: amazon
+          # company_logo: amazon
           location: London, UK
           date_start: '2022-07-20'
           date_end: ''
@@ -51,7 +51,6 @@ sections:
         - title: Postdoctoral Researcher
           company: Queen Mary University of London
           company_url: 'https://lorejam.wixsite.com/crisp'
-          company_logo: building-columns
           location: London, UK
           date_start: '2019-05-01'
           date_end: '2022-06-31'
