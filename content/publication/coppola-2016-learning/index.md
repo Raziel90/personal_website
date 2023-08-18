@@ -8,6 +8,7 @@ authors:
   - Tomas Krajnik
   - Tom Duckett
   - Nicola Bellotto
+author_notes: []
 publication: "*European Conference on Artificial Intelligence (ECAI2016)*"
 abstract: We investigate how incremental learning of long-term human activity
   patterns improves the accuracy of activity classification over time. Rather
@@ -31,7 +32,9 @@ tags:
   - AAL
   - Robotics
 categories: []
-projects: []
+projects:
+  - ENRICHME
+  - STRANDS
 image:
   caption: ""
   focal_point: ""
@@ -42,3 +45,6 @@ lastmod: 2023-08-18T13:00:04+01:00
 date: 2016-01-01
 publishDate: 2023-08-18T12:00:04.507549Z
 ---
+Article: <http://eprints.lincoln.ac.uk/id/eprint/23297/>
+
+Code: <https://github.com/gestom/fremen_activity>
