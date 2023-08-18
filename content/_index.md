@@ -11,22 +11,22 @@ sections:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-      # - block: features
-      #   content:
-      #     title: Skills
-      #     items:
-      #       - name: Python
-      #         description: 90%
-      #         icon: fa-python
-      #         icon_pack: fab
-      #       - name: Machine Learning
-      #         description: 100%
-      #         icon: fa-brain-circuit
-      #         icon_pack: fas
-      #       - name: Photography
-      #         description: 10%
-      #         icon: camera-retro
-      #         icon_pack: fas
+  - block: features
+    content:
+      title: Skills
+      items:
+        - name: Python
+          description: 90%
+          icon: fa-python
+          icon_pack: fab
+        - name: Machine Learning
+          description: 100%
+          icon: fa-brain-circuit
+          icon_pack: fas
+        - name: Photography
+          description: 10%
+          icon: camera-retro
+          icon_pack: fas
   - block: experience
     content:
       title: Experience
