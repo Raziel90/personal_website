@@ -56,7 +56,7 @@ sections:
           date_start: '2019-05-01'
           date_end: '2022-06-31'
           description:
-          Performed Reseach and supported PhD and Master students as member of the Advanced Robotics @ Queen-Mary (ARQ) Team. Main responsibilities included \:
+          'Performed Reseach and supported PhD and Master students as member of the Advanced Robotics @ Queen-Mary (ARQ) Team. Main responsibilities included :'
           - Contributed to and Coordinated the work of PhD/MSc students for the EPSRC MAN3 Project, involving Shadow Robotics, Ocado and Deepmind.
           - Conducted research on learning by demonstration for robot manipulation by building a teleoperation platform and a demonstration segmentation system.
         - title: LD11 Cohort Member
@@ -74,7 +74,7 @@ sections:
           date_start: '2018-04-00'
           date_end: '2018-09-30'
           description:
-          Led the data science team, worked on several Machine Learning Projects central to raise $8.9M funding for the company to improve the analytics product \:
+          'Led the data science team, worked on several Machine Learning Projects central to raise $8.9M funding for the company to improve the analytics product:'
           - Object Detection in Social Media Images. This project helped to provide analytics about influencer topics to the company platform.
           - Fake Influencer Detection. This project tried to detect fake accounts and accounts using fake influencers to boost their metrics.
         - title: Research Associate
