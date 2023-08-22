@@ -93,8 +93,6 @@ sections:
           date_end: '2014-06-30'
           description: |2-
             - Automated daily BI maintenance tasks with a speed-up above 90% and developed SQL queries to generate BI reports.
-
-
     design:
       columns: '2'
   - block: accomplishments
