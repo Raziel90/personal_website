@@ -54,7 +54,13 @@ highlight_name: true
 first_name: Claudio
 email: claudiocoppola90@gmail.com
 ---
-Claudio Coppola is an expert in artificial intelligence and robotics, passionate about advancing the state-of-the-art in machine learning. As an Applied Scientist at Amazon, he develops cutting-edge machine learning solutions for forecasting and pricing at Amazon Transportation Services.
+
+Claudio Coppola is an artificial intelligence and robotics expert with strong academic credentials and industry experience. He specializes in applying advanced machine learning techniques to enable more intelligent robot systems.
+
+Claudio obtained his PhD in Robotics from the University of Lincoln in 2018, where his doctoral research focused on human activity understanding to assist robots in indoor environments. He also holds a Master's degree cum laude in Computer Engineering from the University of Naples Federico II in Italy. His work has led to numerous publications in leading journals and conferences like ICRA, IROS and IJSR.
+
+Currently, Claudio is an Applied Scientist at Amazon Transportation Services. He develops cutting-edge machine learning solutions for forecasting and pricing optimization. Previously at Queen Mary University of London, he researched robot learning for manufacturing automation. His work on tactile perception, teleoperation and learning from demonstrations aimed to enable adaptable industrial robots. With his technical expertise and passion for AI robotics, Claudio is an asset in initiatives fusing intelligent systems with automation.
+<!-- Claudio Coppola is an expert in artificial intelligence and robotics, passionate about advancing the state-of-the-art in machine learning. As an Applied Scientist at Amazon, he develops cutting-edge machine learning solutions for forecasting and pricing at Amazon Transportation Services.
 
 Previously, as a postdoctoral Researcher at Queen Mary University of London's School of Electronic Engineering and Computer Science, Claudio focused on robot learning for manufacturing automation. His research on tactile perception, robot teleoperation, and learning from human demonstrations aimed to enable more intelligent and adaptive industrial robots.
 
@@ -64,6 +70,5 @@ He obtained a PhD in Robotics from the University of Lincoln, UK, in 2018. His w
 
 In 2013, he received MSc degree (cum laude) in computer engineering from the University of Naples Federico II, Italy.
 
-With numerous publications in top-tier peer-reviewed journals and conferences including ICRA, IROS, ECAI  and IJSR Claudio has extensive experience within academia and industry to implement machine learning and data science techniques. His technical expertise and passion for AI robotics make him an asset to any initiative at the intersection of intelligent systems and automation.
-
+With numerous publications in top-tier peer-reviewed journals and conferences including ICRA, IROS, ECAI  and IJSR Claudio has extensive experience within academia and industry to implement machine learning and data science techniques. His technical expertise and passion for AI robotics make him an asset to any initiative at the intersection of intelligent systems and automation. -->
 {style="text-align: justify;"}
