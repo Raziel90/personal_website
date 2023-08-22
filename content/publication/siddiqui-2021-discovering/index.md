@@ -4,14 +4,14 @@
 title: Discovering stable robot grasps for unknown objects in presence of uncertainty
   using bayesian models
 subtitle: ''
-summary: ''
+summary: 'The paper presents a pipeline to predict safe robotic grasps of unknown objects using depth and tactile sensing. Three methods are compared to find optimal grasp points during tactile exploration - grid search, standard Bayesian Optimization, and Unscented Bayesian Optimization. Results show Unscented Bayesian Optimization provides higher confidence in discovering safe grasps with fewer exploratory observations. It converges faster to robust grasp points away from edges compared to other methods.'
 authors:
 - Muhammad Sami Siddiqui
 - Claudio Coppola
 - Gokhan Solak
 - Lorenzo Jamone
 tags: ['Grasping', 'Grasp-metric', 'Dexterous-Manipulation', 'Haptics', 'Manipulation', 'Tactile-Sensing']
-categories: []
+categories: ['Grasp-Exploration', 'Manipulation', 'Bayesian-Optimization', 'Tactile-Sensing']
 date: '2021-01-01'
 lastmod: 2023-08-18T13:00:06+01:00
 featured: false
@@ -30,7 +30,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: ['MAN^3']
 publishDate: '2023-08-18T12:00:06.365710Z'
 publication_types:
 - '1'

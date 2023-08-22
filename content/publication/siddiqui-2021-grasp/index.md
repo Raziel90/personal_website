@@ -4,7 +4,7 @@
 title: Grasp stability prediction for a dexterous robotic hand combining depth vision
   and haptic bayesian exploration
 subtitle: ''
-summary: ''
+summary: 'The paper presents an approach using depth sensing and tactile feedback to predict safe robotic grasps of completely unknown objects through haptic exploration and comparing grid search, standard Bayesian Optimization, and unscented Bayesian Optimization, with results showing unscented Bayesian Optimization provides higher confidence grasps with fewer exploratory observations.'
 authors:
 - Muhammad Sami Siddiqui
 - Claudio Coppola

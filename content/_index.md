@@ -134,6 +134,23 @@ sections:
           organization_url: https://www.coursera.org
           title: 'DeepLearning.AI Deep Learning Specialization'
           url: 'https://www.coursera.org/specializations/deep-learning'
+        - certificate_url: ""
+          date_end: ''
+          date_start: '2022-01-01'
+          description: 'Award of 2k for Postdocs working in AI'
+          organization: Turing Institute
+          organization_url: https://www.coursera.org
+          title: 'Postdoc Enrichment Awards'
+          url: 'https://www.turing.ac.uk/work-turing/alan-turing-institute-post-doctoral-enrichment-awards-2022'
+        - certificate_url: "https://www.daad.de/en/the-daad/postdocnet/fellows/fellows/#claudio"
+          date_end: ''
+          date_start: '2022-03-01'
+          description: 'Award to a group of excellent international researchers from the field of AI and grow our network of current fellows and alumni.'
+          organization: DAAD
+          organization_url: https://www.daad.de
+          title: 'DAAD AINET Awards'
+          url: 'https://www.daad.de/en/the-daad/postdocnet'
+
     design:
       columns: '2'
   - block: collection
@@ -190,14 +207,6 @@ sections:
       view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
-  - block: markdown
-    content:
-      title: Gallery
-      subtitle: ''
-      text: |-
-        {{< gallery album="demo" >}}
-    design:
-      columns: '1'
   - block: collection
     id: featured
     content:
@@ -207,7 +216,7 @@ sections:
           - publication
         featured_only: true
     design:
-      columns: '2'
+      columns: '1'
       view: card
   - block: collection
     content:

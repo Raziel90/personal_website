@@ -49,9 +49,9 @@ education:
 superuser: true
 status:
   icon: ☕️
-last_name: Wu
+last_name: Coppola
 highlight_name: true
-first_name: Alice
+first_name: Claudio
 email: claudiocoppola90@gmail.com
 ---
 Claudio Coppola is an expert in artificial intelligence and robotics, passionate about advancing the state-of-the-art in machine learning. As an Applied Scientist at Amazon, he develops cutting-edge machine learning solutions for forecasting and pricing at Amazon Transportation Services.
