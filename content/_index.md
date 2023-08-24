@@ -51,7 +51,7 @@ sections:
         - title: Postdoctoral Researcher
           company: Queen Mary University of London
           company_url: 'https://lorejam.wixsite.com/crisp'
-          # company_logo: queen-mary-university
+          company_logo: queen-mary-university
           location: London, UK
           date_start: '2019-05-01'
           date_end: '2022-06-30'
