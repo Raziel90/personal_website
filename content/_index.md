@@ -42,8 +42,6 @@ sections:
         - title: Applied Scientist
           company: Amazon
           company_url: ''
-          # icon: amazon
-          # icon_pack: fab
           company_logo: amazon
           location: London, UK
           date_start: '2022-07-20'
