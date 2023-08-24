@@ -82,7 +82,7 @@ sections:
         - title: Research Associate
           company: University of Lincoln
           company_url: 'https://lcas.lincoln.ac.uk/'
-          # company_logo: uol
+          company_logo: uol
           location: Lincoln, UK
           date_start: '2017-01-01'
           date_end: '2018-06-30'
