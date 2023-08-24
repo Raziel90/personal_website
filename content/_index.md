@@ -42,7 +42,7 @@ sections:
         - title: Applied Scientist
           company: Amazon
           company_url: ''
-          company_logo: amazon
+          # company_logo: amazon
           location: London, UK
           date_start: '2022-07-20'
           date_end: ''
@@ -51,7 +51,7 @@ sections:
         - title: Postdoctoral Researcher
           company: Queen Mary University of London
           company_url: 'https://lorejam.wixsite.com/crisp'
-          company_logo: queen-mary-university
+          # company_logo: queen-mary-university
           location: London, UK
           date_start: '2019-05-01'
           date_end: '2022-06-30'
@@ -62,7 +62,7 @@ sections:
         - title: LD11 Cohort Member
           company: Entrepreneur First
           company_url: 'https://www.joinef.com/'
-          company_logo: ef
+          # company_logo: ef
           location: London, UK
           date_start: '2018-10-01'
           date_end: '2019-01-01'
@@ -71,7 +71,7 @@ sections:
         - title: Data Scientist
           company: Buzzoole
           company_url: 'https://buzzoole.com/'
-          company_logo: buzzoole
+          # company_logo: buzzoole
           location: Naples, Italy
           date_start: '2018-04-01'
           date_end: '2018-09-30'
@@ -82,7 +82,7 @@ sections:
         - title: Research Associate
           company: University of Lincoln
           company_url: 'https://lcas.lincoln.ac.uk/'
-          company_logo: uol
+          # company_logo: uol
           location: Lincoln, UK
           date_start: '2017-01-01'
           date_end: '2018-06-30'
@@ -92,7 +92,7 @@ sections:
         - title: Business Intelligence Consultant
           company: KPMG Advisory
           company_url: 'https://kpmg.com/'
-          company_logo: kpmg
+          # company_logo: kpmg
           location: Rome, Italy
           date_start: '2014-01-01'
           date_end: '2014-06-30'
