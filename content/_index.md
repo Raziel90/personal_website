@@ -62,7 +62,7 @@ sections:
         - title: LD11 Cohort Member
           company: Entrepreneur First
           company_url: 'https://www.joinef.com/'
-          # company_logo: ef
+          company_logo: ef
           location: London, UK
           date_start: '2018-10-01'
           date_end: '2019-01-01'
