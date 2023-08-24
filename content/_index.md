@@ -42,7 +42,9 @@ sections:
         - title: Applied Scientist
           company: Amazon
           company_url: ''
-          # company_logo: amazon
+          # icon: amazon
+          # icon_pack: fab
+          company_logo: amazon
           location: London, UK
           date_start: '2022-07-20'
           date_end: ''
@@ -51,6 +53,7 @@ sections:
         - title: Postdoctoral Researcher
           company: Queen Mary University of London
           company_url: 'https://lorejam.wixsite.com/crisp'
+          company_logo: queen-mary-university
           location: London, UK
           date_start: '2019-05-01'
           date_end: '2022-06-30'
@@ -61,6 +64,7 @@ sections:
         - title: LD11 Cohort Member
           company: Entrepreneur First
           company_url: 'https://www.joinef.com/'
+          company_logo: ef
           location: London, UK
           date_start: '2018-10-01'
           date_end: '2019-01-01'
@@ -69,6 +73,7 @@ sections:
         - title: Data Scientist
           company: Buzzoole
           company_url: 'https://buzzoole.com/'
+          company_logo: buzzoole
           location: Naples, Italy
           date_start: '2018-04-01'
           date_end: '2018-09-30'
@@ -79,6 +84,7 @@ sections:
         - title: Research Associate
           company: University of Lincoln
           company_url: 'https://lcas.lincoln.ac.uk/'
+          company_logo: uol
           location: Lincoln, UK
           date_start: '2017-01-01'
           date_end: '2018-06-30'
@@ -88,6 +94,7 @@ sections:
         - title: Business Intelligence Consultant
           company: KPMG Advisory
           company_url: 'https://kpmg.com/'
+          company_logo: kpmg
           location: Rome, Italy
           date_start: '2014-01-01'
           date_end: '2014-06-30'
@@ -122,6 +129,8 @@ sections:
           description: Deep Reinforcement Learning Nanodegree
           organization: Udacity
           organization_url: https://www.udacity.com/
+          icon: udacity
+          icon_pack: custom
           title: Deep Reinforcement Learning Nanodegree
           url: https://graduation.udacity.com/confirm/e/c883be94-8156-11eb-8ddb-3b818c0fccf8
         - certificate_url: https://www.coursera.org/account/accomplishments/specialization/RNPASNNUFD2H
@@ -136,7 +145,7 @@ sections:
           date_end: ''
           date_start: '2022-01-01'
           description: 'Award of 2k for Postdocs working in AI'
-          organization: Turing Institute
+          organization: The Alan Turing Institute
           organization_url: https://www.coursera.org
           title: 'Postdoc Enrichment Awards'
           url: 'https://www.turing.ac.uk/work-turing/alan-turing-institute-post-doctoral-enrichment-awards-2022'
@@ -273,7 +282,7 @@ sections:
           name: DM Me
           link: 'https://twitter.com/ClaudioInClouds'
         - icon: threads
-          icon_pack: fab
+          icon_pack: custom
           name: I am on threads
           link: 'https://www.threads.net/@fullmetal_scientist'
         # - icon: video

@@ -20,8 +20,8 @@ social:
     label: Follow me on Twitter
     display:
       header: true
-  - icon: graduation-cap
-    icon_pack: fas
+  - icon: google-scholar
+    icon_pack: ai
     link: https://scholar.google.com/citations?user=MktA9R0AAAAJ&hl=en
   - icon: github
     icon_pack: fab
@@ -29,11 +29,15 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/clcoppola
+  - icon: instagram
+  # - icon: threads
+    icon_pack: custom
+    link: https://www.threads.net/@fullmetal_scientist
   - icon: cv
     icon_pack: ai
     link: uploads/CV_2column.pdf
 organizations:
-  - name: Amazon
+  - name: Applied Scientist @ Amazon
     url: ""
 education:
   courses:
