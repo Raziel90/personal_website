@@ -92,7 +92,7 @@ sections:
         - title: Business Intelligence Consultant
           company: KPMG Advisory
           company_url: 'https://kpmg.com/'
-          # company_logo: kpmg
+          company_logo: kpmg
           location: Rome, Italy
           date_start: '2014-01-01'
           date_end: '2014-06-30'
