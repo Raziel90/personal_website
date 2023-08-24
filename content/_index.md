@@ -71,7 +71,7 @@ sections:
         - title: Data Scientist
           company: Buzzoole
           company_url: 'https://buzzoole.com/'
-          # company_logo: buzzoole
+          company_logo: buzzoole
           location: Naples, Italy
           date_start: '2018-04-01'
           date_end: '2018-09-30'
