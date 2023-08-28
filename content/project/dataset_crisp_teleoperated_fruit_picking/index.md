@@ -1,6 +1,6 @@
 ---
-title: Teleoperation of dexterous robotic hands using Leap Motion and vibrotactile feedback.
-summary: Teleoperation system for arm-hand dexterous manipulator
+title: CRISP Teleoperated Fruit Picking Dataset
+summary: Dataset containing the demonstration data collected with a teleoperation system. The CRISP teleoperated fruit picking dataset contains real-world teleoperated demonstration recordings of teleoperated grasping and manipulation sequences. The dataset offers recordings of RGB-D, Tactile and kinematic data collected during fruit pick-and-place tasks. Our items are placed in the workspace as single or as a clutter to simulate real-world food manufacturing scenarios.
 tags:
   - robotics
 date: '2022-08-01T00:00:00Z'
@@ -23,8 +23,8 @@ links:
     icon_pack: fab
     name: Connect
     url: https://linkedin.com/in/clcoppola
-url_code: 'https://github.com/ARQ-CRISP/teleoperation_ur5_allegro_leap'
-url_pdf: 'https://ieeexplore.ieee.org/abstract/document/9900583'
+url_code: ''
+url_pdf: 'https://ieeexplore.ieee.org/abstract/document/9962193'
 url_slides: ''
 url_video: 'https://user-images.githubusercontent.com/8159414/165047534-401706df-a4b2-4379-b00c-971ade4cd4e6.mp4'
 
