@@ -202,6 +202,10 @@ sections:
       buttons:
         - name: Reinforcement Learning
           tag: reinforcement-learning
+        - name: Activity Recognition
+          tag: activity-recognition
+        - name: Robotics
+          tag: robotics
         # - name: Deep Learning
           # tag: Deep Learning
         # - name: Other
