@@ -17,6 +17,10 @@ links:
     icon_pack: fab
     name: Follow
     url: https://twitter.com/ClaudioInClouds
+  - icon: linkedin
+    icon_pack: fab
+    name: Connect
+    url: https://linkedin.com/in/clcoppola
 url_code: 'https://github.com/Raziel90/DeepRL_Continuous_Control'
 url_pdf: ''
 url_slides: ''
