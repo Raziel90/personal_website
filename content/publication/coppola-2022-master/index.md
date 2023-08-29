@@ -21,7 +21,7 @@ draft: false
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   filename: ''
-  caption: Overview of the proposed robot activity recognition system. The demonstrations are collected through with our RoboPuppetteer teleoperation system. The data collected during the demonstrations is processed to extract geometric and tactile features used to detect the demonstration sub-tasks
+  caption: Overview of the proposed robot activity recognition system.
   focal_point: ''
   preview_only: false
 
