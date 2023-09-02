@@ -3,7 +3,7 @@ title: ISR-UoL 3D Social Activity Dataset
 summary: This is a social interaction dataset between two subjects. This dataset consists of RGB and depth images, and tracked skeleton data (i.e. joints 3D coordinates and rotations) acquired by an RGB-D sensor.
 tags:
   - activity-recognition
-date: '2016-08-01T00:00:00Z'
+date: '2016-03-01T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: 'https://lcas.lincoln.ac.uk/wp/research/data-sets-software/isr-uol-3d-social-activity-dataset/'
