@@ -6,7 +6,7 @@ tags:
 date: '2017-08-01T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
-external_link: ''
+external_link: 'https://lcas.lincoln.ac.uk/wp/research/data-sets-software/uol-3d-social-interaction-dataset/'
 
 image:
   caption: Screenshot of the training environment.
