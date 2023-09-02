@@ -10,7 +10,7 @@ authors:
 - Kaspar Althoefer
 tags: ['tactile-perception', 'tactile-sensor', 'tactile-sensing', 'force-estimation', 'multi-touch']
 categories: []
-date: '2024-01-01'
+date: '2023-07-01'
 lastmod: 2023-08-18T13:00:04+01:00
 featured: false
 draft: false
