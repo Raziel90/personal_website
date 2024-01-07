@@ -39,6 +39,16 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Instructor
+          company: BrainStation
+          company_url: 'https://brainstation.io'
+          company_logo: brainstation
+          location: London, UK
+          date_start: '2022-11-24'
+          date_end: ''
+          description: |2-
+              * Delivered lessons for the Data Science Course for professionals interested in data science roles.
+              * Advised students on their final project, objectives, and data choices.
         - title: Applied Scientist
           company: Amazon
           company_url: ''
@@ -47,7 +57,7 @@ sections:
           date_start: '2022-07-20'
           date_end: ''
           description: |2-
-              Scoped, Developed and deployed cost estimation and volume forecasting solutions for the Amazon Transportation Services Less-Than-Truckload product working in direct contact with business at all the stages of development
+              Scoped, developed, and deployed cost estimation and volume forecasting solutions for the Amazon Transportation Services Less-Than-Truckload external facing product working in direct contact with customers at all the stages of development.
         - title: Postdoctoral Researcher
           company: Queen Mary University of London
           company_url: 'https://lorejam.wixsite.com/crisp'
@@ -56,7 +66,7 @@ sections:
           date_start: '2019-05-01'
           date_end: '2022-06-30'
           description: |2-
-              * Performed Reseach and supported PhD and Master students as member of the Advanced Robotics Queen-Mary (ARQ) Team.
+              * Performed reseach and supported PhD and Master students as member of the Advanced Robotics Queen-Mary (ARQ) Team.
               * Contributed to and Coordinated the work of PhD/MSc students for the EPSRC MAN3 Project, involving Shadow Robotics, Ocado and Google Deepmind.
               * Conducted research on learning by demonstration for robot manipulation by building a teleoperation platform and a demonstration segmentation system.
         - title: LD11 Cohort Member
