@@ -44,7 +44,7 @@ sections:
           company_url: 'https://brainstation.io'
           company_logo: brainstation
           location: London, UK
-          date_start: '2022-11-24'
+          date_start: '2023-11-24'
           date_end: ''
           description: |2-
               * Delivered lessons for the Data Science Course for professionals interested in data science roles.
