@@ -47,7 +47,8 @@ sections:
           date_start: '2023-11-24'
           date_end: ''
           description: |2-
-              * Delivered lessons for the Data Science Course for professionals interested in data science roles.
+              Instructor for the Data Science course.
+              * Delivered the Course material to professionals interested in data science roles.
               * Advised students on their final project, objectives, and data choices.
         - title: Applied Scientist
           company: Amazon
