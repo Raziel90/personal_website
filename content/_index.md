@@ -39,7 +39,7 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Instructor
+        - title: Lead Instructor
           company: BrainStation
           company_url: 'https://brainstation.io'
           company_logo: brainstation
@@ -47,8 +47,8 @@ sections:
           date_start: '2023-11-24'
           date_end: ''
           description: |2-
-              Instructor for the Data Science course.
-              * Delivered the Course material to professionals interested in data science roles.
+              Lead Instructor for the AI and Data Science courses.
+              * Delivered the Course material to professionals interested in changing their career towards data oriented and AI-dependant roles.
               * Advised students on their final project, objectives, and data choices.
         - title: Applied Scientist
           company: Amazon
