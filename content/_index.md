@@ -39,6 +39,15 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Senior Research Engineer
+          company: Thehumanoid
+          company_url: 'https://thehumanoid.ai'
+          company_logo: thehumanoid
+          location: London, UK
+          date_start: '2024-08-29'
+          date_end: ''
+          description: |2-
+              Research Engineer for Manipulation
         - title: Lead Instructor
           company: BrainStation
           company_url: 'https://brainstation.io'
@@ -56,7 +65,7 @@ sections:
           company_logo: amazon
           location: London, UK
           date_start: '2022-07-20'
-          date_end: ''
+          date_end: '2024-08-16'
           description: |2-
               Scoped, developed, and deployed cost estimation and volume forecasting solutions for the Amazon Transportation Services Less-Than-Truckload external facing product working in direct contact with customers at all the stages of development.
         - title: Postdoctoral Researcher
