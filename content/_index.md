@@ -40,7 +40,7 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: Senior Research Engineer
-          company: Thehumanoid
+          company: HumaNoid
           company_url: 'https://thehumanoid.ai'
           company_logo: thehumanoid
           location: London, UK
