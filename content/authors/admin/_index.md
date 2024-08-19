@@ -9,6 +9,7 @@ interests:
   - Robot-learning
   - Human-Activity-Recognition
   - Machine-Learning
+  - Time Series Forecasting
   - Robotic-Perception
 social:
   - icon: envelope
@@ -37,7 +38,7 @@ social:
     icon_pack: ai
     link: uploads/CV_2column.pdf
 organizations:
-  - name: Applied Scientist @ Amazon
+  - name: Senior Research Engineer @ Thehumanoid.ai
     url: ""
 education:
   courses:
@@ -63,8 +64,8 @@ Claudio Coppola is an artificial intelligence and robotics expert with strong ac
 
 Claudio obtained his PhD in Robotics from the University of Lincoln in 2018, where his doctoral research focused on human activity understanding to assist robots in indoor environments. He also holds a Master's degree cum laude in Computer Engineering from the University of Naples Federico II in Italy. His work has led to numerous publications in leading journals and conferences like ICRA, IROS and IJSR.
 
-Currently, Claudio is an Applied Scientist at Amazon Transportation Services. He develops cutting-edge machine learning solutions for forecasting and pricing optimization. Previously at Queen Mary University of London, he researched robot learning for manufacturing automation. His work on tactile perception, teleoperation and learning from demonstrations aimed to enable adaptable industrial robots. With his technical expertise and passion for AI robotics, Claudio is an asset in initiatives fusing intelligent systems with automation.
-<!-- Claudio Coppola is an expert in artificial intelligence and robotics, passionate about advancing the state-of-the-art in machine learning. As an Applied Scientist at Amazon, he develops cutting-edge machine learning solutions for forecasting and pricing at Amazon Transportation Services.
+During his experience as Applied Scientist at Amazon Transportation Services. Claudio has developed cutting-edge machine learning solutions for forecasting and pricing optimization. Previously at Queen Mary University of London, he researched robot learning for manufacturing automation. His work on tactile perception, teleoperation and learning from demonstrations aimed to enable adaptable industrial robots. With his technical expertise and passion for AI robotics, Claudio is an asset in initiatives fusing intelligent systems with automation.
+<!-- Claudio Coppola is an expert in artificial intelligence and robotics, passionate about advancing the state-of-the-art in machine learning. As an Applied Scientist at Amazon, he has developed cutting-edge machine learning solutions for forecasting and pricing at Amazon Transportation Services.
 
 Previously, as a postdoctoral Researcher at Queen Mary University of London's School of Electronic Engineering and Computer Science, Claudio focused on robot learning for manufacturing automation. His research on tactile perception, robot teleoperation, and learning from human demonstrations aimed to enable more intelligent and adaptive industrial robots.
 
