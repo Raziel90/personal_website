@@ -36,7 +36,7 @@ social:
     link: https://www.threads.net/@fullmetal_scientist
   - icon: cv
     icon_pack: ai
-    link: uploads/CV_2column__2025__research.pdf
+    link: uploads/CV_2column.pdf
 organizations:
   - name: Senior Research Engineer @ Thehumanoid.ai
     url: ""
